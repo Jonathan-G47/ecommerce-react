@@ -3,7 +3,7 @@ import type  {Product}  from "../types/product";
 const products: Product[] = [
 {
     id: 1,
-    name: "Audifonos inalambricos", 
+    name: "Audifonos inalambricos",
     price: 2300, 
     description: "Se escuchan muy bien y le dura la carga", 
     image: "/src/assets/products/audifonos.webp",
@@ -67,3 +67,4 @@ const products: Product[] = [
 ];
 
 export default products;
+
